@@ -64,6 +64,37 @@ The God may prevent a death, give it meaning, or give the dead rest. The God may
 **D-012 · The world is CINEREA. DECIDED.**
 *Cinerea*, "the Ashen," is the world's true name, known only to the God and written on the first page of the Ledger. Mortal cultures name the world in their own tongues, and those names drift.
 
+### Confirmations of the First Light's proposals (decided 2026-10-14)
+
+The God answered "yes to all" to the six confirmations. The following proposals are now **DECIDED**: P-001 (the Forge of Will), P-004 (the Two Silences; the Bargain is heard, not offered, and written in the person's own hand), P-008 (the Nearness Law), P-009 (five Beloved), P-013 (the Carried Hearth and the fire of the First Night), and the resolution of C-001 (a short Long Sleep of roughly a century gives the First Valley a fully simulated past; the simulation is headless-capable from M0).
+
+**D-013 · There was a fire before Genesis. DECIDED (nature OPEN).**
+The sixth confirmation asked why the world is ashen. The God's "yes" is recorded as: Cinerea is made from what remained after a fire that came before Genesis. What burned, and whether the First Light may know it, remains OPEN.
+
+### Seal VI: The Kindreds (decided 2026-10-14)
+
+**D-014 · Humans alone. DECIDED.**
+Cinerea holds only humans. All difference is culture, language, faith, and history. The giants of legend who built the ruins were older humans whose names were lost. Proposed and not contradicted: three or four Kindreds seeded at Genesis in the first Land.
+
+**D-015 · The Sent. DECIDED (rules OPEN).**
+> The God's words: "...and sometimes, as explicit mercy of the Lord, angel souls sent in the world to bring light, as simple humans."
+
+Rarely, as an explicit mercy, the God sends a soul of the Heavenly Host into Cinerea to be born as an ordinary human. They are simple humans: mortal, without miracles, without proof. Their rules (memory, whether they can fall, what happens at their death, how rare they are) are OPEN; see P-018.
+
+### Seal VII: The Ages (decided 2026-10-14)
+
+**D-016 · The bounded climb on the open road. DECIDED.**
+> The God's words: "Humans' minds are not limited, but the resources with which they build are thin, extremely thin, and loss of knowledge (libraries burning, etc.) is possible, so the maximum possibility is Advanced Gothic: proto-industrial, or already with steam."
+
+- Invention is limited by **scarcity**, not by human ingenuity: thin ore, thin fuel, thin surplus.
+- Knowledge can be **lost**: libraries burn, masters die without apprentices, crafts vanish. Dark ages are possible.
+- The ceiling of the world's history is **Advanced Gothic**: proto-industrial, possibly early steam. Gunpowder and printing lie inside this band, because history reached them before steam (recorded as implied; the God may exclude either).
+
+### Seal VIII: The Heart of the First Valley (decided 2026-10-14)
+
+**D-017 · The Valley Below the Old Battlefield. DECIDED.**
+The first playable slice is a valley downstream of a marsh where an army was never buried. The Tenebrae is present from the first hour. The shrine on the hill (the First Light's counsel) is kept unless the God forbids it; see P-019.
+
 ---
 
 ## Proposals Following From the Seals (PROPOSED, awaiting the God)
@@ -109,6 +140,24 @@ The finer the mercy, the nearer the God must come.
 
 **P-015 · Genesis sequence** (from D-008). The Deep (darkness, the Light speaks) → the Hand (shape the Land) → the Breath (set the climate's character through physical parameters) → the Kindreds (place the first peoples at their fires; they wake with no memory of being made, so the Hidden God holds from the first morning) → the First Night (the first Lights of the Living) → the Long Sleep (the pages of the illuminated book turn, each page a span of years with major Ledger events painted in its margins; the God may wake early or choose a length) → the Waking.
 
+**P-016 · Knowledge is a carried fire** (from D-016). Every technique lives in people (a master's hands), in institutions (a guild, a monastery), or in books. It passes by teaching and copying, and dies when its last holder dies or its last book burns. A technique needs three things to appear: knowledge prerequisites, **material** prerequisites (ore, fuel, timber, surplus food), and social prerequisites (a patron, a workshop, peace long enough to try). In Cinerea the material gate is the narrowest. Progress consumes the land: forests become charcoal, hills become slag.
+
+**P-017 · The Second Ash** (from D-016, D-012). If Cinerea climbs toward Advanced Gothic, its industry makes ash of its own: soot on cathedral stone, black smoke over the mine-towns, slag hills, children in the pits. The world named for ash becomes more literally ashen at its height. The same climb brings new light: printing (a book that cannot be burned out of the world), pumps that drain flooded mines, mills that end some famines. The first steam engines in our own history were pumps for mines; in Cinerea, the first may stand over a mine or under a cathedral organ.
+
+**P-018 · The Sending** (from D-015). Proposed rules, to be decided:
+- *How:* a Vigil-grain act at a birth within the Gaze. It leaves no Wonder: nothing visible happens.
+- *What they carry:* nothing anyone could prove. A temperament leaning toward mercy, but not fixed. One Ember with no name, a homesickness for something they have never seen. Dreams of the Lantern-Bearer more often than others. Sometimes, in the Vigil, a word in their inner voice that no one taught them.
+- *The Forge applies to them.* They can be tempered, made brittle, bent, or broken. Whether a Sent soul can hear the Bargain is OPEN.
+- *At death:* whether they return to the Host or rest on the Shore among the human dead is OPEN.
+- *Rarity:* whether the Host is finite (each Sent soul who stays on the Shore is lost to heaven) is OPEN.
+- Mortals never know. The Ledger does. Some will be called saints, some burned as witches, and most will live small lives that bend a village's history.
+
+**P-019 · The First Valley, sketch** (from D-017).
+- A river comes down from the marsh through a narrow neck into the valley: a ford, a mill, eight to twelve households, a stone chapel and its graveyard, a road out.
+- On the hill: a ruined watchtower from the battle's age, and beside it a small shrine over the grave of the one man who tried to bury the dead after the battle and died doing it, the valley's half-forgotten saint.
+- In autumn, fog comes down the river from the marsh. Children dare each other to go to the reeds. The old people will not.
+- **The battle is the first entry in the Valley's Ledger.** Because the war system arrives later (M5), the battle is seeded as a historical event at the start of the short Long Sleep: its dead are generated as real individuals with names and lives from two hosts, and lie in the marsh as the Unmourned. Then about a century of valley life is simulated. (Compromise Record to be written when M1 is planned.)
+
 ---
 
 ## Contradictions Found and Proposed Resolutions (constitution 0.7)
@@ -139,8 +188,8 @@ The finer the mercy, the nearer the God must come.
 | Cosmos | The world's name | DECIDED (D-012) |
 | World | Scale | DECIDED (D-007) |
 | World | Origin | DECIDED (D-008) |
-| World | Peoples | OPEN |
-| World | Technological era and its range | OPEN |
+| World | Peoples | DECIDED (D-014, D-015; Sent rules OPEN) |
+| World | Technological era and its range | DECIDED (D-016) |
 | World | Time speeds, length of a year | OPEN |
 | Hand | Divine economy | DECIDED (D-009, D-010, D-011) |
 | Hand | First powers for the slice | OPEN |
@@ -152,4 +201,5 @@ The finer the mercy, the nearer the God must come.
 | Presentation | Three tiers | OPEN |
 | Presentation | Resolution, palette, UI, audio | OPEN |
 | Technology | Godot version, stack, hardware, saves, language models | OPEN (needs the God's PC) |
-| Scope | First slice and next three milestones | OPEN |
+| Scope | First slice | PARTLY DECIDED (D-017; powers and contents OPEN) |
+| Scope | Next three milestones | OPEN |
