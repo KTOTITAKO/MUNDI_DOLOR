@@ -42,7 +42,7 @@ After a fire is carried from an old hearth to a new one, the road it travelled s
 
 ### The Field That Keeps Her Breath
 
-*Lens: the land and sky.*
+*Lens: the land and sky.* *Absorbs: The Slow Flour.*
 
 In an Ash-Giver barley field where the ashes of someone well mourned were scattered, the grain moves in long slow swells on windless evenings, rising and settling at the pace of a person asleep. The swells always roll toward the cottage of the one who grieved hardest and stop at its hedge the way a tide stops at a sea wall. The stalks brush together with a soft hush, hush, the sound a mother makes over a cradle, and larks drop into the field at midday to sleep as if it were dusk.
 
@@ -364,7 +364,7 @@ When a River-Sender raft snags in the reed marsh before it reaches the sea, its 
 
 ### The Unfed Hill
 
-*Lens: the land and sky.*
+*Lens: the land and sky.* *Absorbs: The Crows Learn Her Voice.*
 
 When a Crow-Giver is laid out on the hill and nobody grieves, the crows come by the hundred and do not eat. They stand shoulder to shoulder in a ring around the body, every head turned outward toward the village, utterly silent, while the corpse rots untouched beneath them in the rain. A week later a second ring stands on an empty hill nearer in, then a third at the edge of the common, closing like a hand, and whenever a door opens in the village the whole black circle shifts its feathers at once with a sound like a wet sheet being shaken out.
 
@@ -414,7 +414,7 @@ Around the half-built mill of the soot town the scaffolding climbs in a black la
 
 ### The Downward Prayer
 
-*Lens: the life of the living.*
+*Lens: the life of the living.* *Absorbs: The Prayer Answered From Below.*
 
 After midnight the prayers of the valley rise from the roofs as threads of faint rose light, hundreds of them, swaying like river grass in a slow current. One thread runs the other way: it comes down out of the starless dark, taut as a fishing line and the color of cold ash, and enters the chimney of the cooper's house, humming at a pitch you feel in your back teeth. His hearth still burns among the Lights of the Living, still coral, still small and homely, but his chimney smoke pours downward and spreads around the house like spilled water, pooling toward you across the yard. Frost lies thick and unmelted on the roof above the fire.
 
