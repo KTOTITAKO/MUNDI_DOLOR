@@ -156,11 +156,16 @@ The Ledger keeps the record either way, so a surprise can always be understood a
 
 ### The Face of the World (in progress)
 
-**D-023 · Reference images received: three of four.** Analyzed in `docs/02_VISUAL_BIBLE.md`:
+**D-023 · Reference images received.** Analyzed in `docs/02_VISUAL_BIBLE.md`:
 - **Ref A, "The Lit Street"**: a Gothic city at dusk seen from above, down a lantern-lit street to a twin-spired cathedral. Role: camera, space, and the Lights of the Living.
 - **Ref B, "The Bridges in the Clouds"**: viaducts and spires over a cloud abyss under breaking holy light, brown at first sight and flushed with blood-rose in its half-lights. Role: holy light, and the peak of humanity's great cities (D-024).
 - **Ref C, "The Knight at the Graves"**: a cloaked knight seen from behind among overgrown graves, looking toward a castle in mist. Role: melancholy and remembrance.
-- **Reference One (cruelty)**: awaited from the God.
+- **Ref D, "Ange de la Fatalité"** (three images, replacing the lost cruelty reference): a many-eyed flame-winged angel in tearing static; a too-blue dream sky where a bloody hand and a ghost hand reach toward a winged eye; a faceless haloed figure of static beside the words "I KNOW WHAT YOU DREAD."
+
+**D-033 · The weird. DECIDED.**
+> The God's words: "Our game, along with dark fantasy and hope, shall strongly shade weirdcore, dreamcore, and even bordering analog horror."
+
+MISERIA AETERNA is dark fantasy and hope, torn at the seams by **weirdcore, dreamcore, and the edge of analog horror**. How and where the weird enters: see P-025 (pending the seers' audit).
 
 ---
 

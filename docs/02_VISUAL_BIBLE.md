@@ -1,6 +1,6 @@
 # MISERIA AETERNA: Visual Bible (draft v0)
 
-**Status: IN PROGRESS.** Three of four reference images have been analyzed. Reference One (cruelty, brutality, loneliness, the quasi-VHS character) is still awaited. The camera technique cannot be chosen until a prototype runs on the God's PC (constitution 6.4). Everything here is provisional until those two gates pass.
+**Status: IN PROGRESS.** All four reference windows have been analyzed: Refs A, B, C, and the three-image Ref D, "Ange de la Fatalité," which replaces the lost cruelty reference. The camera technique cannot be chosen until a prototype runs on the God's PC (constitution 6.4). Everything here is provisional until those two gates pass.
 
 **About the images themselves:** they are not stored in this repository. Ref A carries a third-party watermark (`@abbadonart.deviantart.com`), and the others are of unknown origin. They are mood and craft references only: never traced, never shipped, never used as assets. Keep them locally, outside version control (for example in a git-ignored `references/` folder under `C:/games`).
 
@@ -124,6 +124,39 @@ The mist is made of **stacked flat silhouettes**, each step lighter: classic lay
 
 ---
 
+## Ref D · "Ange de la Fatalité" (three images)
+
+The God could not recover the original cruelty reference and brought these instead, under one name: *Ange de la Fatalité*, the Angel of Fate. "And it is worse." With them came a ruling (D-033): **MISERIA AETERNA shades strongly into weirdcore, dreamcore, and the border of analog horror.** All three are third-party images (D3 is signed "DayByDay Artworx"); reference only, never stored here, never traced.
+
+### D1 · The Angel of Eyes
+
+*Out of black static rises something that is wings, or flames, or both, and every tongue of it has an eye. They are open and they are looking. Above it hangs a single star of white light. Below it, two pale banks converge on a dark road that runs straight toward it. Green scan-lines tear across the top of the picture like the image is failing to hold what it shows.*
+
+**Measured (CIE Lab).** 58% of pixels near-black, yet 15% blown to pink-white: the most violent value contrast of any reference. 12% of pixels exceed chroma 30 and 3% exceed chroma 50, where Refs A, B, and C stay at or below 0.5% above chroma 30. Of its colored pixels, 73% are red-pink (mean `#ab5c60`), 24% brown-red (`#84312d`), and 3% the green of the scan tears (`#1b712f`).
+
+**What it means.** Its red is the same family as the holy light's blood-rose (Ref B), pushed two to four times past it, with the whites blown out. **This is holy light seen too closely: the same blood, past what a mortal eye can bear.** Every biblical angel opens with "Fear not" for a reason.
+
+### D2 · The Hands and the Winged Eye
+
+*A sky too blue, with clouds too white, between white pillars that hold nothing up. In the middle hangs an eye with white wings. Two hands reach up toward it: one living and covered in blood, one pale and outlined in blue, dissolving into noise. Across the bottom runs a broken line of on-screen text that no one can read.*
+
+**Measured.** The values are inverted: mean brightness L* 65, only 1% near-black, 32% very bright. Blue is 79% of its colored pixels (`#5c74a3`), with violet 12%. **It is the only reference with no darkness in it at all.** In Cinerea darkness pools at our feet; here it has been removed, and that absence is the horror.
+
+**What it means.** This is the dreamcore pole: heaven as a dream remembers it, bright, empty, uncanny. The bloody hand and the ghost hand reaching toward the winged eye could be the living and the dead praying together to a God they cannot see, who sees them.
+
+### D3 · I Know What You Dread
+
+*A figure with wings and a spiked halo, but where its face should be there is only black, and from where its eyes should be two white lines fall straight down, then break into stairs of pixels. Its body is made of colored static. Beside it, in the same static, are the words: I KNOW WHAT YOU DREAD. The last word stutters and repeats.*
+
+**Measured.** 61% of pixels near-black; the field is violet-black (`#120e17`, `#1c1723`), close kin to Ref A's abyss (`#08060e`). Colored pixels are violet-magenta 60% (`#3c294f`), sickly yellow-green 23% (`#5b794d`), dull rose 11% (`#76465c`).
+
+**What it means.** The faceless figure is the Lantern-Bearer whose face is never remembered (D-002). The words are the Bargain, which speaks in the person's own hand and knows exactly what they dread (P-004). The weirdcore pole: text that should not be in the image, addressed to whoever looks.
+
+### What the fourth window adds
+
+- **Three poles of the weird**: dreamcore (D2: too bright, too blue, empty, tender and wrong), weirdcore (D3: captions, faceless figures, the image speaking to its viewer), analog horror (D1: the picture itself failing, tearing, blowing out).
+- **Continuity with what exists**: the angel's red is the holy light's blood pushed past bearing; the dread's violet-black is the world's abyss. The weird is not a new world laid on top of Cinerea. It is Cinerea's own colors when the seam between the seen and the unseen tears.
+
 ## Laws drawn from the references (R-series, PROPOSED)
 
 These are the first reusable rules. Each is observed in at least two of the three references.
@@ -181,6 +214,5 @@ These are the first reusable rules. Each is observed in at least two of the thre
 
 ## Open
 
-- Reference One (cruelty): awaited.
 - Camera prototype, internal resolution, and character height: need the God's PC.
 - A first *style test* (one small scene drawn in this language) once tools are available.
