@@ -66,6 +66,67 @@ The God may prevent a death, give it meaning, or give the dead rest. The God may
 
 ---
 
+## Proposals Following From the Seals (PROPOSED, awaiting the God)
+
+**P-001 · The Forge of Will** (from D-001). Each soul has **Will**: the capacity to hold a commitment (a faith, a vow, an Ember) under pressure. Will has a *strength* that drains under strain and recovers through rest, joy, and companionship, and a *temper* shaped over a lifetime. **Trials** (unanswered prayer, a child's death, hunger, torture, an unjust order, the Bargain) test a specific commitment against Will plus supports (Embers, people who stand with the person). Outcomes:
+- *Tempered*: the commitment holds, and the person becomes both harder and more flexible. Mercy survives. The true forge.
+- *Brittle*: the commitment holds only by hardening: fanaticism, cruelty in defense of the faith. Strong until the next great blow, then it shatters.
+- *Bent*: the commitment changes shape: conversion, compromise, a new faith. Not a failure.
+- *Broken*: the commitment fails: doubt, despair, Ashes, lost Embers, and vulnerability to the Bargain.
+
+Which outcome happens depends on temperament (mercy and severity, pride and humility), on who stood with the person, and on how heavy the blow was. Faith is content held by Will, never a conclusion from evidence.
+
+**P-002 · Sent Dreams and False Dreamers** (from D-001, D-002). The God's Voice acts arrive as dreams in which a lantern-bearer appears. The dreamer remembers the lantern and a distorted message, never the face. Mortals may also claim dreams they never had, or read ordinary dreams as sent; the Ledger marks which dreams were truly sent, and only the God knows. Each culture depicts the Lantern-Bearer differently (an angel, a dead mother, a hooded pilgrim, a skeleton with a lamp), and cults of the messenger itself may arise as heresies against the silent God.
+
+**P-003 · The Small Mercies** (from D-001). The God's gentle toolkit: acts that could have happened naturally (a fever breaking a night early, a lost sheep found, a stranger's road bending past a door, a wind carrying seed). They leave almost no Wonder and no proof. The player still sees their consequences, because every divine act is sealed in the Ledger.
+
+**P-004 · The Two Silences** (from D-004). There is a silence above (the Hidden God) and a silence below (the Void). Neither speaks. **Faith is will answering the silence above; the Bargain is despair answering the silence below.** The Bargain is *heard, not offered*: its "voice" is assembled from the person's own deepest want and its price from what they love most. In the Vigil it is written in the person's own hand. No one is forced; someone holding their hand at that moment can change the outcome. (This replaces the constitution's wording in 4.5, "the dark may offer a bargain.")
+
+**P-005 · The Mind of the Dark from the Unlit** (from D-004). The Unlit have no lantern. When one dies, its will falls into the Void and colors the "voice" that later despairs hear in that region. The dark of each land is a confession of that land's despairs.
+
+**P-006 · The Late Arrival** (from D-005, D-006). When one of the Unmourned is finally laid to rest, its lantern arrives at the Shore, perhaps centuries late. Those who waited for it may already have drifted into the nameless sea; or one old lantern may still be waiting, kept bright by a song. The player can watch it arrive.
+
+**P-007 · The Mourning Debt** (from D-006). Requiem lowers a place's Tenebrae and lays its Unmourned to rest, but leaves a *mourning debt*. If no mortal mourning answers it within a span of years, the Tenebrae creeps back toward its old level.
+
+**P-008 · The Nearness Law** (from D-009). The scale of the Gaze sets the grain of the Hand.
+- From the **Cartograph**: broad acts only: seasons, a region's weather, a river's course, the reach of a plague.
+- In the **Diorama**: a storm over a valley, a fire, a healing, a well.
+- In the **Vigil**: a dream, a fever broken, a word, a touch.
+
+The finer the mercy, the nearer the God must come.
+
+**P-009 · The Beloved** (from D-009). A small, fixed number of Beloved souls (proposed: 5) on whom the God may act at Vigil grain wherever they are, and about whom tidings always reach the God. Taking a new Beloved when all places are full means releasing one.
+
+**P-010 · Unheard Prayers** (from D-009). Prayers outside the Gaze rise and fade, and are kept in the Book of Prayers under a gray seal. The God can read them later; by then, nothing can be done.
+
+**P-011 · Wonder, measured** (from D-010). Wonder from an act rises with the number of witnesses, the act's magnitude, and its strangeness (low for acts that could happen naturally). It spreads by rumor along roads and fades with a half-life of about a generation. Under the Hidden God it never becomes proof: each witness attributes it according to their own beliefs.
+
+**P-012 · The First Law is universal** (from D-011). No power in Cinerea (God, Light, saint, witch, or Unlit) returns the dead to life. The Unmourned are not the dead returned; they are grief given a body. Mortals who claim to raise the dead are liars or deceived, and such claims can found cults. A death is final the instant it is written in the Ledger.
+
+**P-013 · The Carried Hearth** (from D-012). Every hearth fire is an entity with a lineage. When a household moves, someone may carry a live ember from the old hearth to the new, as people really did. The new light is *the same fire*. The God can see a light that has burned for three hundred years across four homes. A sanctuary may keep the fire of the First Night, from Genesis itself, and its going out would be a catastrophe of meaning.
+
+**P-014 · Ash and the next harvest** (from D-012). Burned land is more fertile for a few seasons, so a war that burns the fields brings famine first and, years later, an *ash harvest*. Ash customs may emerge (ash on the forehead in mourning or penance; the hearth's ash kept in a jar). The world's base tone is cinereous gray; warm embers are its accents.
+
+**P-015 · Genesis sequence** (from D-008). The Deep (darkness, the Light speaks) → the Hand (shape the Land) → the Breath (set the climate's character through physical parameters) → the Kindreds (place the first peoples at their fires; they wake with no memory of being made, so the Hidden God holds from the first morning) → the First Night (the first Lights of the Living) → the Long Sleep (the pages of the illuminated book turn, each page a span of years with major Ledger events painted in its margins; the God may wake early or choose a length) → the Waking.
+
+---
+
+## Contradictions Found and Proposed Resolutions (constitution 0.7)
+
+**C-001 · The Long Sleep is scheduled too late.** The roadmap (24.4) puts the Long Sleep at M7, but D-008 makes it the beginning of the game, and the First Valley's graveyard should hold real lives. *Proposed:* build the simulation headless-capable from M0, and give the M1 Valley a short Long Sleep (about 80 to 150 years) so every grave, ruin, and grudge in it was produced by simulation. The full Long Sleep (centuries, many settlements, language drift, the turning pages) stays later.
+
+**C-002 · The Cartograph could let the God act everywhere,** which would undo the Gaze. *Proposed:* the Nearness Law (P-008).
+
+**C-003 · A Hidden God can make the player's acts feel invisible.** *Proposed:* mortals never get proof, but the player always does. Every divine act is sealed in the Ledger, and its consequences can be traced, and offered by the Witness, as "the work of Thy hand."
+
+**C-004 · Constitution 16.1 lists overt signs** ("speak a sign in the sky"). *Resolution:* overt acts remain possible under the Hidden God. They carry heavy Wonder and never prove anything; mortals explain them as comets, omens, sorcery, or saints.
+
+**C-005 · Constitution 4.1 asked whether the God ever acted openly.** *Answered by D-001:* never. The "First Word" idea (from the rejected "God Who Spoke Once" option) is discarded. Faiths are born from interpreted events, sent and unsent dreams, catastrophe, and need.
+
+**C-006 · Constitution 4.5 says the dark "offers" the Bargain.** *Proposed rewording by P-004:* the Bargain is heard, not offered.
+
+---
+
 ## Foundational Checklist (constitution 23.3)
 
 | Area | Item | Status |
