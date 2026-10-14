@@ -119,11 +119,27 @@ The first playable slice is a valley downstream of a marsh where an army was nev
 **D-022 · The powers of the First Valley. DECIDED.**
 The Breath (rain, frost, fog; valley grain), a Small Mercy (break a fever, guide the lost; Vigil grain), a Sent Dream (Vigil grain), Requiem (valley grain, with the mourning debt), and the Silence. **Prayers Rising** and **the Lights of the Living** shine in the first Valley. **The Sending** arrives in M2.
 
+### Confirmations and the Rites of the Dead (decided 2026-10-14)
+
+The God confirmed all four pending proposals. **P-020 (the Ashing), P-021 (the Calling), P-022 (the Fallen Sent, including the inference that an Unlit Sent soul has no lantern), and P-023 (the Slow Year in numbers) are now DECIDED.**
+
+**D-024 · Ref B's role. DECIDED.** "The Bridges in the Clouds" is the doctrine of **holy light** and, at the same time, **the peak of humanity's great cities**.
+
+**D-025 · Four Kindreds. DECIDED.** The first Land holds four Kindreds, each with its own rite of the dead. Proposed outline, accepted with the rites below (names provisional; each Kindred will name itself in its own tongue):
+- **The Earth-Keepers** bury their dead in named graves around chapels. The First Valley is theirs.
+- **The Ash-Givers** burn their dead and scatter the ash on their fields.
+- **The River-Senders** give their dead to the water on rafts with lamps.
+- **The Crow-Givers** lay their dead out on the hills for the birds.
+
+**D-026 · What lays the dead to rest. DECIDED.** Grief is what lays the dead to rest, and the right rite counts: grief without the dead's own rite gives rest, but not full rest; a rite without grief gives none.
+
+**D-027 · The marsh holds two Kindreds. DECIDED.** The two armies that died in the marsh above the First Valley came from two different Kindreds. To lay the enemy's dead fully to rest, the Valley's people must learn the rite of the people who once tried to kill them. Which Kindreds: see P-024.
+
 ### The Face of the World (in progress)
 
 **D-023 · Reference images received: three of four.** Analyzed in `docs/02_VISUAL_BIBLE.md`:
 - **Ref A, "The Lit Street"**: a Gothic city at dusk seen from above, down a lantern-lit street to a twin-spired cathedral. Role: camera, space, and the Lights of the Living.
-- **Ref B, "The Bridges in the Clouds"**: a sepia, monochrome vision of viaducts and spires over a cloud abyss under breaking holy light. Role: OPEN.
+- **Ref B, "The Bridges in the Clouds"**: a sepia, monochrome vision of viaducts and spires over a cloud abyss under breaking holy light. Role: holy light, and the peak of humanity's great cities (D-024).
 - **Ref C, "The Knight at the Graves"**: a cloaked knight seen from behind among overgrown graves, looking toward a castle in mist. Role: melancholy and remembrance.
 - **Reference One (cruelty)**: awaited from the God.
 
@@ -203,6 +219,13 @@ The finer the mercy, the nearer the God must come.
 
 **P-023 · The Slow Year in numbers** (from D-021). A day lasts 60 seconds at ×1. A season has 12 days, so a year has 48 days and lasts about 48 minutes at ×1. Speeds: Vigil-slow (×0.5), ×1, ×3, ×10, ×30, and the Long Sleep. A sixty-year life lasts about 48 hours at ×1, or about 1.6 hours at ×30. People age by the year; crops follow the seasons.
 
+**P-024 · The Rites in the simulation** (from D-025, D-026, D-027).
+- *Rest has three degrees.* No grief: no rest, and the death feeds the Tenebrae in full. Grief and spoken names without the dead's own rite: **uneasy rest**. Most of the death's weight lifts, a residue stays in the ground, and the lantern reaches the Shore dim and flickering. Grief, names, and the dead's own rite: **full rest**.
+- *A rite is knowledge.* Performing another Kindred's rite means learning it from one of that Kindred or from a written source (P-016). It can be lost.
+- *Rites carry taboos.* The Earth-Keepers fear fire on the dead (it is what their enemies did). The Ash-Givers see burial as leaving the dead to rot in a rotting world. The River-Senders find burning cruel. Everyone fears the Crow-Givers, for whom the crows that signal death elsewhere are holy guides of the soul. **Performing a rite one's own people call desecration is a Trial of Will (P-001).** Mercy toward the enemy's dead has to pass through the Forge.
+- *Rites reach the land.* Ash-Givers' fields hold their ancestors and feed the ash harvest (P-014). River-Senders' lamp-rafts drift downstream into other lands, where strangers find them and must decide what to do. Crow-Givers' hills are thick with birds.
+- *The marsh, proposed:* one army was **Earth-Keepers**, the Valley's own kin, and the other **Ash-Givers**. Laying the Earth-Keeper dead to rest asks only grief and graves. Laying the Ash-Giver dead fully to rest asks the Valley to **burn the bodies of its enemies with honor**, the one thing its own rite most fears.
+
 ---
 
 ## Contradictions Found and Proposed Resolutions (constitution 0.7)
@@ -233,9 +256,9 @@ The finer the mercy, the nearer the God must come.
 | Cosmos | The world's name | DECIDED (D-012) |
 | World | Scale | DECIDED (D-007) |
 | World | Origin | DECIDED (D-008) |
-| World | Peoples | DECIDED (D-014, D-015, D-018, D-019) |
+| World | Peoples | DECIDED (D-014, D-015, D-018, D-019, D-025) |
 | World | Technological era and its range | DECIDED (D-016) |
-| World | Time speeds, length of a year | DECIDED (D-021; numbers PROPOSED in P-023) |
+| World | Time speeds, length of a year | DECIDED (D-021, P-023) |
 | Hand | Divine economy | DECIDED (D-009, D-010, D-011) |
 | Hand | First powers for the slice | DECIDED (D-022) |
 | Hand | Prayers Rising, Lights of the Living | DECIDED (D-022) |

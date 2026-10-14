@@ -56,10 +56,11 @@ Measurements were made in this session with a small Python script (value histogr
 
 *From a high balcony where a stone figure stands in silhouette, the eye falls into an abyss of cloud. Viaducts and arched bridges leap from cliff to cliff. Gothic spires rise layer behind layer. Through a rent in the clouds, shafts of light pour down upon the dead city like a judgment or a blessing. Everything is the color of rust and old blood, and the edges of the world are black.*
 
-**Role: OPEN, to be named by the God.** Proposed uses:
-1. The doctrine of **holy light**: rare, overwhelming, unsettling, light from nowhere.
-2. **The sublime summit of Advanced Gothic**: what Cinerea's greatest cities might become.
-3. A **monochrome treatment** for special states: memories in the Ledger, high Tenebrae, the Strepitus.
+**Role: DECIDED by the God (D-024): the doctrine of holy light, and the peak of humanity's great cities.**
+
+*Holy light.* When the sacred breaks into the world (an overt act of the God, a Calling, perhaps the Strepitus seen from the other side), the image should change register: color drains toward this rust-and-bone monochrome, and light arrives as shafts from a hidden source, too bright for the scene that receives it. The world's ordinary palette (Ref A, Ref C) and this one must never mix casually. The change itself is the signal.
+
+*The peak cities.* At the summit of Advanced Gothic (D-016), humanity's greatest cities reach for the sky the way this one does: viaducts and arched bridges over chasms, spires layered behind spires, cities built on cliffs and on each other. They should look like an answer to heaven that heaven has not given. Ref A's scaffolded towers are the same ambition at an earlier stage.
 
 **Format.** Portrait, 335×597, low resolution. A soft, grainy, painterly image, closer to an engraving or a degraded print than to clean pixel art.
 
@@ -125,7 +126,7 @@ These are the first reusable rules. Each is observed in at least two of the thre
 - **R-08 · No outlines on the world.** Architecture and landscape are separated by value, not by drawn lines (A, C).
 - **R-09 · Stone is texture in rows.** Masonry, tiles, and cobbles are rendered as small regular marks that follow perspective (A, C).
 - **R-10 · Crows mean death has passed.** Both pixel references place crows or ravens in the sky or on roofs. In MISERIA AETERNA crows are a simulation signal, not decoration (constitution 5.11).
-- **R-11 · Two lights only.** Each scene has a cool ambient world light (sky, haze, overcast) and, at most, one warm human light family. Holy light (B) is a third kind, reserved for rare events.
+- **R-11 · Two lights only.** Each scene has a cool ambient world light (sky, haze, overcast) and, at most, one warm human light family. Holy light (B) is a third kind, reserved for rare events, and arrives with its own monochrome register.
 - **R-12 · The forward gaze.** Both pixel references look *into* depth toward a distant monumental focus, from above (A) or from behind a figure (C). The camera must be able to do both.
 
 ---
@@ -167,6 +168,5 @@ These are the first reusable rules. Each is observed in at least two of the thre
 ## Open
 
 - Reference One (cruelty): awaited.
-- The God's naming of Ref B's role.
 - Camera prototype, internal resolution, and character height: need the God's PC.
 - A first *style test* (one small scene drawn in this language) once tools are available.
