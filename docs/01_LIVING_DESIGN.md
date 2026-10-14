@@ -154,6 +154,13 @@ The Ledger keeps the record either way, so a surprise can always be understood a
 
 **D-032 · Holy light carries blood. DECIDED.** The God's observation: Ref B is not monochrome but "brown-red-pink, a slight hint of the color of blood shown in light." Holy light in Cinerea is never white: neutral black shadows, blood-rose half-lights, bone-cream highlights. This replaces the constitution's "holy white" (5.5, 5.6). Measured ramp in `02_VISUAL_BIBLE.md`.
 
+### The Fever (decided 2026-10-14)
+
+**D-034 · The weird is everywhere, and it is classical. DECIDED.**
+> The God's words: "The weirdcore and dreamcore shall be classical, even in our concepts. In definition, something that seems subtly uncomfortable or straight up scary, or strangely relaxing, and the thing is that it is totally CONNECTED TO CINEREA... to infect the whole world, not just Tenebrae. Despair pushes horror forward, the world seems very off but beautiful... The world is grimly realistic but simultaneously looking like the sleep of a man with a 45-degree body temperature... integrate it for total weirdness to fade in grimness but stand out simultaneously."
+
+The weird is not confined to wounds. It is a property of all of Cinerea, always. It has three classical faces: **the subtly uncomfortable, the scary, and the strangely relaxing.** Despair drives it toward horror. The world is grimly realistic and, at the same time, a fever dream. This answers the question of "strongly" and supersedes the clean baseline in P-029. The God's remaining confirmations on P-025 to P-028 and C-007 to C-010 are read as accepted where they do not conflict with this ruling.
+
 ### The Face of the World (in progress)
 
 **D-023 · Reference images received.** Analyzed in `docs/02_VISUAL_BIBLE.md`:
@@ -277,7 +284,35 @@ The finer the mercy, the nearer the God must come.
 7. *Every wound can be answered.* Each manifestation is tied to something a good act can heal, and when healed the image clears back to clean paint.
 8. *No proof by imagery.* Eyes and winged eyes appear only in the God's Sight or inside one mortal's dream, never as a world object several mortals can see. The First Light's face is always an unreadable region: the glitch itself is the forgetting.
 
-**P-029 · The budget follows the wound** (from D-033). How weird the world looks is proportional to how wounded it is, so a healing land visibly clears and a dying land can become almost wholly strange. Below regional Tenebrae 0.3 the Diorama is clean; Testimonium begins at 0.4; at Cartograph distance it never exceeds 15% intensity. Full-screen weird events (a lucid dream, Bargain text, testimony cards) come at most once every 15 to 20 real minutes at default speed and never back to back; Visio at most once every two hours, and only for a real Wonder or Calling; the Strepitus at most once per region per generation. Corruption touches at most 3% of book entries at a time.
+**P-029 · The budget follows the wound** (from D-033; **revised by D-034 and P-030:** there is no clean baseline any more; ambient wrongness is everywhere, scaled by Heat and colored by Tone, and only the caps on full-screen events below remain). How weird the world looks is proportional to how wounded it is. Testimonium begins at regional Tenebrae 0.4; at Cartograph distance it never exceeds 15% intensity. Full-screen weird events (a lucid dream, Bargain text, testimony cards) come at most once every 15 to 20 real minutes at default speed and never back to back; Visio at most once every two hours, and only for a real Wonder or Calling; the Strepitus at most once per region per generation. Corruption touches at most 3% of book entries at a time.
+
+**P-030 · The Fever of Cinerea** (from D-034, D-013). Cinerea was born sick, and its sickness is a fever. The weird is how a fevered world looks. Every place, and every soul, carries two values:
+- **Heat**: how far the world has drifted from rendering correctly. It is never zero anywhere: the world's congenital fever is its floor. It rises with the **despair** of nearby souls (the strongest driver: "despair pushes horror forward"), with grief, fever and sickness in bodies, hunger, the Tenebrae, war, and night.
+- **Tone**: which way the wrongness leans, from nightmare to strange peace. Despair, fear, cruelty, the unmourned, and the Bargain tilt it toward dread. Mercy, joy, rest, completed mourning, a carried hearth, songs, safety, and the presence of a Sent soul tilt it toward calm.
+
+Together they give the four faces of the world:
+
+| | Calm tone | Dread tone |
+|---|---|---|
+| **Low heat** | the grim, realistic world, faintly off and beautiful | subtly uncomfortable |
+| **High heat** | **strangely relaxing**: the fever's sweet delirium | **scary** |
+
+Mercy cannot cure the fever. It can only change its tone. **Healing turns the nightmare into the strange calm; it never makes Cinerea ordinary.** (This revises P-025's "the image visibly clears.")
+
+**P-031 · Two layers of wrongness** (from D-034). This is how the weird fades into the grimness and stands out at once.
+- **Authored wrongness**: small, permanent anomalies built into the art and the world generation, realistic at first glance. The saint in the chapel fresco has one hand too many. A milestone counts down toward a town that does not exist. A well's rope is longer than the well is deep. A scarecrow faces the house instead of the field. Every one has a reason in the Ledger, rooted in Cinerea's lore, that the player can discover later.
+- **Living wrongness**: produced by Heat and Tone from the simulation itself: behavior, light, sound, time, and the four registers (P-025), scaled by Heat.
+- **The three-look test.** At first look, the player sees a grim, realistic painted world. At the second, something is off. At the third, they understand why, because the Ledger knows.
+
+**P-032 · The craft of the fever** (from D-034). How the fever shows, always within the safety guardrails (P-028.3 and P-028.4):
+- **The image breathes.** Under high Heat, an imperceptibly slow drift of scale and brightness, under 2% over many seconds.
+- **The center stays grim; the edges burn.** Colors at the edge of the frame run slightly too vivid, too warm, as in fever vision, while the focus stays ash-true.
+- **Distances lie.** A village heard as if it were inside the room. A bell rung three valleys away, too clear.
+- **Time stutters.** A figure repeats one small motion twice. A crow lands, then lands again.
+- **Scale drifts.** One familiar object is a size wrong.
+- **Faces repeat.** The same face, in two places at once.
+
+**P-033 · The world through a soul's fever** (from D-034, D-029). **The Nearness Law of the weird:** the nearer the God comes to one soul, the more the world takes the shape of that soul's own Heat and Tone. In the Vigil, the world is drawn as *they* feel it. A child with a fever sees the room breathe; a widow at peace sees the evening hold still and gold; a man hearing the Bargain sees his street repeat. The weird is how the God reads a heart from outside it.
 
 ---
 
