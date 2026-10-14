@@ -176,6 +176,26 @@ These are the first reusable rules. Each is observed in at least two of the thre
 
 ---
 
+## The registers of the image (PROPOSED, see Living Design P-025 to P-029)
+
+| Register | What it shows | Ground | Grammar | Source |
+|---|---|---|---|---|
+| **World** | Cinerea as it is | dark, pooling toward the viewer | ash-gray and slate; coral ember at about half a percent | Refs A, C |
+| **Holy light** | the sacred at a distance | dark | blood-rose single-hue ramp, never white | Ref B |
+| **Somnium** (dreamcore) | the dreams of the living | bright, almost no darkness | too-blue, flat white, frontal and symmetric, memories at the wrong scale | Ref D2 |
+| **Limen** (weirdcore) | the Bargain, emptied places, the Unlit | even, sourceless, faintly green-gray | repetition, off-by-one placement, words in a mortal's own hand | Ref D3 |
+| **Testimonium** (analog horror) | the Tenebrae, the Strepitus, memories of the dead | darkening toward gray-black | *subtraction*: grain, dropout, tracking roll, persisting frames, signal loss | Ref D1 (the tears) |
+| **Visio** (the holy uncanny) | the sacred too close | 55–60% near-black | *overload*: blood-rose at two to four times intensity, highlights capped at pale rose, eyes of the witnesses | Refs D1, D3 |
+| **The Shore** | the rested dead | night | dreamcore stillness and symmetry on dark water; lanterns read as remembrance | — |
+
+**Laws of the weird** (additions to the R-series):
+- **R-13 · The weird is testimony.** It appears only where simulation state demands it, and it heals when that state is answered.
+- **R-14 · The dark subtracts; the holy overloads.** They never share an artifact.
+- **R-15 · The hand reveals the author.** Every word in the image is in someone's handwriting.
+- **R-16 · Hold the grid.** All corruption snaps to the pixel grid and the palette.
+- **R-17 · The God's Sight is the only analog device.** No in-world modern signs, ever.
+- **R-18 · Nothing flashes.** Three flashes per second at most; no full-screen saturated red; Still Sight always available.
+
 ## Palette v0.1 (measured from the references; replaces constitution 5.6 where they disagree)
 
 | Role | Hex | Source |

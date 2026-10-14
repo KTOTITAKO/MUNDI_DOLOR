@@ -165,7 +165,7 @@ The Ledger keeps the record either way, so a surprise can always be understood a
 **D-033 · The weird. DECIDED.**
 > The God's words: "Our game, along with dark fantasy and hope, shall strongly shade weirdcore, dreamcore, and even bordering analog horror."
 
-MISERIA AETERNA is dark fantasy and hope, torn at the seams by **weirdcore, dreamcore, and the edge of analog horror**. How and where the weird enters: see P-025 (pending the seers' audit).
+MISERIA AETERNA is dark fantasy and hope, torn at the seams by **weirdcore, dreamcore, and the edge of analog horror**. How and where the weird enters: P-025 to P-029, with contradictions C-007 to C-010.
 
 ---
 
@@ -250,6 +250,35 @@ The finer the mercy, the nearer the God must come.
 - *Rites reach the land.* Ash-Givers' fields hold their ancestors and feed the ash harvest (P-014). River-Senders' lamp-rafts drift downstream into other lands, where strangers find them and must decide what to do. Crow-Givers' hills are thick with birds.
 - *The marsh, proposed:* one army was **Earth-Keepers**, the Valley's own kin, and the other **Ash-Givers**. Laying the Earth-Keeper dead to rest asks only grief and graves. Laying the Ash-Giver dead fully to rest asks the Valley to **burn the bodies of its enemies with honor**, the one thing its own rite most fears.
 
+**P-025 · The weird is testimony** (from D-033). The image breaks only where a soul's inner state, or the land's memory, outweighs what the world can render: dreaming, despairing, unmourned, remembered, or touched by the Light. Every glitch, liminal loop, and word in the frame is a true, readable report of simulation state, never a random scare. **The weird is translated, not imported:** it is made of Cinerea's own lore and colors. The same seam that lets the dark in lets the Light through, and a mortal act (mourning, refusing, remembering) can heal every rupture; when it does, the image visibly clears. Four registers:
+- **SOMNIUM** (dreamcore): the dreams of the living. Ref D2 inverted: overlit, too-blue sky, flat white clouds and pillars, almost no darkness, whites tinted and never pure. The only frontal, symmetric, centered composition in the game. Places are built from the dreamer's own memories at the wrong scale (a childhood door alone in a field; the parish well grown into a pillar). Anyone the dreamer has forgotten has a featureless face, the same rule that hides the First Light's face. Each unmourned dead the dreamer carries is an empty chair in the field. A dreamer hearing the Bargain sees their own bloody hand reaching up. The region's hymn plays slowed, with a slow wobble in its pitch.
+- **LIMEN** (weirdcore): the Bargain, emptied places, the homes of the Unlit. Wrong but familiar: villages emptied yet still tidy and lit, streets that repeat past the map's edge, a door one tile too high, daylight with no sun, footsteps that keep the old schedules of people who are gone, bare room tone. The Bargain writes in the despairer's own hand, in the first person, naming what they want (a dead name) and what they love (a living name), drawn from the relationship graph. **Refusal is visible:** the same hand crosses its own words out, line by line, and the place of refusal keeps one lamp that never goes out, a permanent coral point on the map.
+- **TESTIMONIUM** (the border of analog horror): the Tenebrae, the Strepitus, memories of the dead. In the fiction, the ash of Cinerea remembers, and where the Tenebrae is heavy, the God's Sight strains and the land plays back its memory like a worn recording: grain, tracking rolls, dropout, signal loss, frames that persist. **The Unmourned appear only as frames that stay after the figure has moved, standing one tile closer each time the tracking rolls.** During the Strepitus, stamped testimony cards (a name, an in-world date, UNMOURNED) pile up faster than they can be read: too many names. **Mourning cleans the signal:** any rite held under heavy Tenebrae opens a circle of clean image around the mourners that widens with each name spoken, and a Requiem restores the whole region with one held bell tone. Memory playback is the gentlest use: the dead laughing, the God watching them being loved.
+- **VISIO** (the holy uncanny): Wonder seen up close, a Sent soul spending the last of its Calling, the First Light in a dream that turns lucid. Refs D1 and D3: the blood-rose holy ramp (D-032) pushed two to four times past its normal intensity, highlights capped at pale rose, never white; a star above, a pale road converging below, the figure on the axis. **The angel's many eyes are the eyes of those who saw: one opens for each living witness.** Tear-lines fall from where its eyes should be, break into pixel stairs, and join the pale road toward the Shore. A place where a Calling was spent stays a little warmer in its lamplight forever. **Holy light at a distance (Ref B) becomes Visio up close: the Nearness Law of the holy.**
+
+**P-026 · The hand reveals the author** (from D-033, D-031). Every word inside the image is generated from simulation state and written by someone in the fiction, and its handwriting tells you who. The Bargain writes in the despairer's own hand (the same hand as their letters). The Ledger's testimony appears as stamped block letters, like a parish register. Dreams show misspelled signs from the dreamer's memory that lose letters as remembrance fades. The First Light writes one line in rubricated uncial, a hand no mortal has. **The same words can mean opposite things in two hands:** "I KNOW WHAT YOU DREAD" in your own hand is the Bargain; in the Light's uncial it is consolation. The player learns to read the hand, not the words. The only words aimed at the viewer are a mortal's own prayer or curse ("WHERE WERE YOU"), because the viewer is the God. Limits: at most seven words, one overlay at a time, at most four seconds, no invented facts, never a mention of the player, the game, or the screen. The dark never speaks in a voice of its own (D-004).
+
+**P-027 · The books fail like manuscripts** (from D-033, D-031). The Books of God never glitch like video; they fail the way manuscripts fail.
+- *Dittography:* the entry of a soul hearing the Bargain is copied twice, the second copy slightly wrong.
+- *Lacuna:* the name of someone unmourned loses letters as remembrance drops.
+- *Palimpsest:* the Bargain's words bleed up beneath a Ledger entry, in the mortal's own hand.
+- *Drolleries:* the little figures in the margins turn to look at the reader when one of the Unlit is near.
+- Only during a Strepitus may a Chronicle page track sideways like a worn recording.
+- Hope uses the same craft: a Requiem regilds the lacuna; a refused Bargain leaves the palimpsest scraped clean with a scar of gold; a Sent soul's entry sometimes holds one word in a hand no one wrote.
+- All of it is cosmetic: entries stay clickable and legible on hover, and a **Clean Copy** setting removes corruption from the books (never from the world).
+
+**P-028 · Guardrails of the weird** (from the seers' audit).
+1. *Translated, not imported.* Analog artifacts belong to **the God's straining Sight** (a metaphysical medium), never to an in-world device. Banned: REC marks, timecodes in our calendar, test cards, broadcast logos, cassette or player controls, sans-serif system text.
+2. *Two grammars that never mix.* The Tenebrae **subtracts**: dropout, desaturation, signal lost toward gray-black, smear. The holy **overloads**: bloom, over-intensity on the blood-rose ramp, eyes opening, a perfectly crisp figure while the world around it holds still. They never share an artifact.
+3. *Player safety.* Every effect must pass a photosensitivity flash test: at most three flashes per second, no full-screen flashes of saturated red, glitches either slow or still. A **Still Sight** setting, offered at first launch, replaces all flicker with still equivalents.
+4. *Dread, never jump scares.* Every effect fades in over at least half a second. No change of more than about a third of screen brightness between frames, and no sudden loud sound, without at least two seconds of foreshadowing in the world. The uncanny arrives as slow wrongness that was always there.
+5. *No meme vocabulary.* A written banned list: smiley faces, checkerboard floors, pool rooms and backrooms, stock captions ("are you lost?"), decorative floating eyes without lore meaning, clip art, computer interface parody, and "biblically accurate angel" pastiche without lore meaning. Test: it must still mean something to someone who has never seen the internet aesthetic.
+6. *Hold the grid.* All glitch snaps to the art's pixel grid and palette: no off-palette RGB, no sub-pixel blur. Every scene is approved clean before any weird layer is applied.
+7. *Every wound can be answered.* Each manifestation is tied to something a good act can heal, and when healed the image clears back to clean paint.
+8. *No proof by imagery.* Eyes and winged eyes appear only in the God's Sight or inside one mortal's dream, never as a world object several mortals can see. The First Light's face is always an unreadable region: the glitch itself is the forgetting.
+
+**P-029 · The budget follows the wound** (from D-033). How weird the world looks is proportional to how wounded it is, so a healing land visibly clears and a dying land can become almost wholly strange. Below regional Tenebrae 0.3 the Diorama is clean; Testimonium begins at 0.4; at Cartograph distance it never exceeds 15% intensity. Full-screen weird events (a lucid dream, Bargain text, testimony cards) come at most once every 15 to 20 real minutes at default speed and never back to back; Visio at most once every two hours, and only for a real Wonder or Calling; the Strepitus at most once per region per generation. Corruption touches at most 3% of book entries at a time.
+
 ---
 
 ## Contradictions Found and Proposed Resolutions (constitution 0.7)
@@ -265,6 +294,14 @@ The finer the mercy, the nearer the God must come.
 **C-005 · Constitution 4.1 asked whether the God ever acted openly.** *Answered by D-001:* never. The "First Word" idea (from the rejected "God Who Spoke Once" option) is discarded. Faiths are born from interpreted events, sent and unsent dreams, catastrophe, and need.
 
 **C-006 · Constitution 4.5 says the dark "offers" the Bargain.** *Proposed rewording by P-004:* the Bargain is heard, not offered.
+
+**C-007 · The Shore's register.** The design seer placed the Shore in Somnium's bright, inverted register; the audit seer warned that the lanterns' brightness (remembrance) needs a dark ground to be read. *Proposed:* the Shore keeps the night, dark water and black cypresses, but borrows dreamcore's grammar (frontal symmetry, water too still, no wind, a horizon that never moves). **The living dream by day; the dead rest by night.**
+
+**C-008 · Analog horror in a medieval world.** VHS and broadcast artifacts cannot exist in Cinerea. *Proposed:* they belong to the God's straining Sight, a medium outside the world; in-world-looking modern signs are banned (P-028.1). Testimony cards are stamped in the style of a parish register, dated by the in-world calendar, and the "test tone" is the region's church bell, held.
+
+**C-009 · Holy and dark glitches could be confused.** The design seer used smearing for both the Strepitus and Visio. *Proposed:* the dark subtracts and smears; the holy overloads and holds the world still around a crisp figure (P-028.2).
+
+**C-010 · The Strepitus flicker.** "Testimony cards flicker faster than they can be read" would break the photosensitivity rule. *Proposed:* the horror comes from accumulation, not speed. The cards pile up like pages, at most a few per second, at similar brightness, until there are too many names to read.
 
 ---
 
