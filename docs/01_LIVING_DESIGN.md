@@ -135,11 +135,30 @@ The God confirmed all four pending proposals. **P-020 (the Ashing), P-021 (the C
 
 **D-027 · The marsh holds two Kindreds. DECIDED.** The two armies that died in the marsh above the First Valley came from two different Kindreds. To lay the enemy's dead fully to rest, the Valley's people must learn the rite of the people who once tried to kill them. Which Kindreds: see P-024.
 
+### The armies, the sight, the doors, and the holy light (decided 2026-10-14)
+
+The God said "yes to all."
+
+**D-028 · The marsh's two hosts. DECIDED.** One army was **Earth-Keepers**, the Valley's own kin; the other was **Ash-Givers**. To lay the Ash-Giver dead fully to rest, the Valley must burn its enemies' bodies with honor, the thing its own rite most fears (P-024 is DECIDED).
+
+**D-029 · The Nearness Law of sight. DECIDED.**
+- From the Cartograph, the God sees peoples and lands, not persons.
+- In the Diorama: deeds, moods worn on the body, relationships, the lights.
+- In the Vigil: the whole heart (memories, Embers and Ashes, the Will and its temper, thoughts, the Bargain written in the person's own hand).
+
+The Ledger keeps the record either way, so a surprise can always be understood afterward.
+
+**D-030 · Four doors of seeing. DECIDED.** The **Cartograph** (the living illuminated map), the **Diorama** (Ref A), the **Vigil** (Ref C), and **the Shore** (the lanterns of the dead, where only the God may go).
+
+**D-031 · The Books of God are illuminated manuscripts. DECIDED.** Red initials, gold used sparingly, small marginal grotesques, each mortal's words in a hand that fits who they are, and body text always clearly legible.
+
+**D-032 · Holy light carries blood. DECIDED.** The God's observation: Ref B is not monochrome but "brown-red-pink, a slight hint of the color of blood shown in light." Holy light in Cinerea is never white: neutral black shadows, blood-rose half-lights, bone-cream highlights. This replaces the constitution's "holy white" (5.5, 5.6). Measured ramp in `02_VISUAL_BIBLE.md`.
+
 ### The Face of the World (in progress)
 
 **D-023 · Reference images received: three of four.** Analyzed in `docs/02_VISUAL_BIBLE.md`:
 - **Ref A, "The Lit Street"**: a Gothic city at dusk seen from above, down a lantern-lit street to a twin-spired cathedral. Role: camera, space, and the Lights of the Living.
-- **Ref B, "The Bridges in the Clouds"**: a sepia, monochrome vision of viaducts and spires over a cloud abyss under breaking holy light. Role: holy light, and the peak of humanity's great cities (D-024).
+- **Ref B, "The Bridges in the Clouds"**: viaducts and spires over a cloud abyss under breaking holy light, brown at first sight and flushed with blood-rose in its half-lights. Role: holy light, and the peak of humanity's great cities (D-024).
 - **Ref C, "The Knight at the Graves"**: a cloaked knight seen from behind among overgrown graves, looking toward a castle in mist. Role: melancholy and remembrance.
 - **Reference One (cruelty)**: awaited from the God.
 
@@ -266,8 +285,10 @@ The finer the mercy, the nearer the God must come.
 | Souls | Temperament, needs, memory, Embers and Ashes, vows (first versions) | OPEN |
 | Presentation | Reference images analyzed, Visual Bible | IN PROGRESS (3 of 4 received; draft in 02_VISUAL_BIBLE.md) |
 | Presentation | Camera technique | OPEN (needs a prototype on the God's PC) |
-| Presentation | Three tiers | OPEN |
-| Presentation | Resolution, palette, UI, audio | OPEN |
+| Presentation | Three tiers | DECIDED (D-030: four doors) |
+| Presentation | Palette | PARTLY DECIDED (Visual Bible v0.1, D-032) |
+| Presentation | UI aesthetic | DECIDED (D-031) |
+| Presentation | Resolution, audio | OPEN |
 | Technology | Godot version, stack, hardware, saves, language models | OPEN (needs the God's PC) |
 | Scope | First slice | PARTLY DECIDED (D-017; powers and contents OPEN) |
 | Scope | Next three milestones | OPEN |
