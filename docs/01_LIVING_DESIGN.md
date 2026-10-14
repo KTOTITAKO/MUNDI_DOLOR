@@ -159,7 +159,7 @@ The Ledger keeps the record either way, so a surprise can always be understood a
 **D-034 · The weird is everywhere, and it is classical. DECIDED.**
 > The God's words: "The weirdcore and dreamcore shall be classical, even in our concepts. In definition, something that seems subtly uncomfortable or straight up scary, or strangely relaxing, and the thing is that it is totally CONNECTED TO CINEREA... to infect the whole world, not just Tenebrae. Despair pushes horror forward, the world seems very off but beautiful... The world is grimly realistic but simultaneously looking like the sleep of a man with a 45-degree body temperature... integrate it for total weirdness to fade in grimness but stand out simultaneously."
 
-The weird is not confined to wounds. It is a property of all of Cinerea, always. It has three classical faces: **the subtly uncomfortable, the scary, and the strangely relaxing.** Despair drives it toward horror. The world is grimly realistic and, at the same time, a fever dream. This answers the question of "strongly" and supersedes the clean baseline in P-029. The God's remaining confirmations on P-025 to P-028 and C-007 to C-010 are read as accepted where they do not conflict with this ruling.
+The weird is not confined to wounds. It is a property of all of Cinerea, always. It has three classical faces: **the subtly uncomfortable, the scary, and the strangely relaxing.** Despair drives it toward horror. The world is grimly realistic and, at the same time, a fever dream. This answers the question of "strongly" and supersedes the clean baseline in P-029. P-025 to P-028 and C-007 to C-010 remain PROPOSED until the God confirms them.
 
 ### The Face of the World (in progress)
 
