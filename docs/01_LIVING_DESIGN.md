@@ -68,8 +68,10 @@ The God may prevent a death, give it meaning, or give the dead rest. The God may
 
 The God answered "yes to all" to the six confirmations. The following proposals are now **DECIDED**: P-001 (the Forge of Will), P-004 (the Two Silences; the Bargain is heard, not offered, and written in the person's own hand), P-008 (the Nearness Law), P-009 (five Beloved), P-013 (the Carried Hearth and the fire of the First Night), and the resolution of C-001 (a short Long Sleep of roughly a century gives the First Valley a fully simulated past; the simulation is headless-capable from M0).
 
-**D-013 · There was a fire before Genesis. DECIDED (nature OPEN).**
-The sixth confirmation asked why the world is ashen. The God's "yes" is recorded as: Cinerea is made from what remained after a fire that came before Genesis. What burned, and whether the First Light may know it, remains OPEN.
+**D-013 · Cinerea was born ashen. DECIDED (revised 2026-10-14).**
+> The God's words: "The world is ashen because it is created like that. It is the melancholy of this world; it is sickborn, and ashing from its first years, and nothing can be done except to light a fire on the ash built on the rot of Cinerea."
+
+There was no fire before Genesis and no older world. Cinerea is sick from birth and decays from its first years. Its melancholy is its nature. Life in it is a fire lit on ash, built on rot. (This replaces the earlier reading of the sixth confirmation.)
 
 ### Seal VI: The Kindreds (decided 2026-10-14)
 
@@ -94,6 +96,36 @@ Rarely, as an explicit mercy, the God sends a soul of the Heavenly Host into Cin
 
 **D-017 · The Valley Below the Old Battlefield. DECIDED.**
 The first playable slice is a valley downstream of a marsh where an army was never buried. The Tenebrae is present from the first hour. The shrine on the hill (the First Light's counsel) is kept unless the God forbids it; see P-019.
+
+### Seal IX: The Law of the Sent (decided 2026-10-14)
+
+**D-018 · The Sent can fall. DECIDED.** A Sent soul can hear the Bargain and become Unlit.
+
+**D-019 · The Sent rest on the Shore. DECIDED.** When they die, they rest among the human dead. The Host numbers **10,000**, and the God is not troubled by its diminishing. *Inference, open to the God's veto:* as with every soul, a Sent soul that became Unlit has no lantern and does not reach the Shore.
+
+### Seal X: Mortal Magic (decided 2026-10-14)
+
+**D-020 · Ember-burning, and the Calling. DECIDED.**
+- Mortals: **Ember-burning**. In extreme need, a soul of extreme will can burn one of its own Embers (a love, a memory, a vow) to do one impossible thing. The Ember is gone forever. It can never raise the dead.
+- The Sent: **the Calling**, as an exception.
+> The God's words: "Soul makes magic, and their soul is angelic. That power is hidden in the depths, but existent, and finite. Like fire without new fuel burning on remains."
+
+### Seal XI: The Measure of Time (decided 2026-10-14)
+
+**D-021 · The Slow Year. DECIDED.** A day lasts about a minute at normal speed; a year lasts roughly forty minutes to an hour; a life lasts tens of hours. Generations are seen through fast speeds and the Long Sleep. Exact numbers: P-023.
+
+### Seal XII: The First Powers (decided 2026-10-14)
+
+**D-022 · The powers of the First Valley. DECIDED.**
+The Breath (rain, frost, fog; valley grain), a Small Mercy (break a fever, guide the lost; Vigil grain), a Sent Dream (Vigil grain), Requiem (valley grain, with the mourning debt), and the Silence. **Prayers Rising** and **the Lights of the Living** shine in the first Valley. **The Sending** arrives in M2.
+
+### The Face of the World (in progress)
+
+**D-023 · Reference images received: three of four.** Analyzed in `docs/02_VISUAL_BIBLE.md`:
+- **Ref A, "The Lit Street"**: a Gothic city at dusk seen from above, down a lantern-lit street to a twin-spired cathedral. Role: camera, space, and the Lights of the Living.
+- **Ref B, "The Bridges in the Clouds"**: a sepia, monochrome vision of viaducts and spires over a cloud abyss under breaking holy light. Role: OPEN.
+- **Ref C, "The Knight at the Graves"**: a cloaked knight seen from behind among overgrown graves, looking toward a castle in mist. Role: melancholy and remembrance.
+- **Reference One (cruelty)**: awaited from the God.
 
 ---
 
@@ -158,6 +190,19 @@ The finer the mercy, the nearer the God must come.
 - In autumn, fog comes down the river from the marsh. Children dare each other to go to the reeds. The old people will not.
 - **The battle is the first entry in the Valley's Ledger.** Because the war system arrives later (M5), the battle is seeded as a historical event at the start of the short Long Sleep: its dead are generated as real individuals with names and lives from two hosts, and lie in the marsh as the Unmourned. Then about a century of valley life is simulated. (Compromise Record to be written when M1 is planned.)
 
+**P-020 · The Ashing** (from D-013). Decay is Cinerea's default law: nothing persists untended. Roofs fall, fields go to weed, graves sink, paint flakes, memories fade, faster than in a healthy world. Only tending holds it back: a lit hearth, a worked field, a kept grave, a repaired wall. **Visually, color follows care.** Tended places keep warmth and color; untended places drift toward ash-gray. The saturation budget becomes a property of the simulation: a village's color is the record of who still looks after it.
+
+**P-021 · The Calling** (from D-020). Each Sent soul carries a hidden, finite **Remnant** of angelic fire that never renews.
+- It sleeps until extremity. The first Calling surfaces only at the edge of death or loss. After that the Sent may call on it knowingly.
+- Each Calling is a true wonder done by a mortal: it leaves Wonder, and witnesses attribute it to a saint, a witch, or the dark. It never proves the God.
+- Each Calling burns part of the Remnant and leaves the Sent more human. When the Remnant is spent, it is gone forever.
+- Proposed size: enough for one to three Callings in a lifetime, differing from soul to soul.
+- It can never raise the dead (D-011).
+
+**P-022 · The Fallen Sent** (from D-018). If a Sent soul becomes Unlit, what remains of its Remnant turns to the dark's use, making it the most terrible of the Unlit. At its death, its angelic will falls into the Void and becomes the strongest voice the dark can gain (P-005). The Ledger marks it. The Host's count is shown with that one soul darkened.
+
+**P-023 · The Slow Year in numbers** (from D-021). A day lasts 60 seconds at ×1. A season has 12 days, so a year has 48 days and lasts about 48 minutes at ×1. Speeds: Vigil-slow (×0.5), ×1, ×3, ×10, ×30, and the Long Sleep. A sixty-year life lasts about 48 hours at ×1, or about 1.6 hours at ×30. People age by the year; crops follow the seasons.
+
 ---
 
 ## Contradictions Found and Proposed Resolutions (constitution 0.7)
@@ -183,20 +228,20 @@ The finer the mercy, the nearer the God must come.
 | Cosmos | God's relationship to the world | DECIDED (D-001) |
 | Cosmos | Seed Canon of mourning | DECIDED (D-003, D-004) |
 | Cosmos | Death and the afterlife | DECIDED (D-005, D-006) |
-| Cosmos | Mortal magic | OPEN |
+| Cosmos | Mortal magic | DECIDED (D-020) |
 | Cosmos | The First Light in the world's myths | DECIDED (D-002) |
 | Cosmos | The world's name | DECIDED (D-012) |
 | World | Scale | DECIDED (D-007) |
 | World | Origin | DECIDED (D-008) |
-| World | Peoples | DECIDED (D-014, D-015; Sent rules OPEN) |
+| World | Peoples | DECIDED (D-014, D-015, D-018, D-019) |
 | World | Technological era and its range | DECIDED (D-016) |
-| World | Time speeds, length of a year | OPEN |
+| World | Time speeds, length of a year | DECIDED (D-021; numbers PROPOSED in P-023) |
 | Hand | Divine economy | DECIDED (D-009, D-010, D-011) |
-| Hand | First powers for the slice | OPEN |
-| Hand | Prayers Rising, Lights of the Living | OPEN |
+| Hand | First powers for the slice | DECIDED (D-022) |
+| Hand | Prayers Rising, Lights of the Living | DECIDED (D-022) |
 | Hand | How miracles are perceived | PARTLY DECIDED (D-001, D-010) |
 | Souls | Temperament, needs, memory, Embers and Ashes, vows (first versions) | OPEN |
-| Presentation | Reference images analyzed, Visual Bible | OPEN (images not yet provided) |
+| Presentation | Reference images analyzed, Visual Bible | IN PROGRESS (3 of 4 received; draft in 02_VISUAL_BIBLE.md) |
 | Presentation | Camera technique | OPEN (needs a prototype on the God's PC) |
 | Presentation | Three tiers | OPEN |
 | Presentation | Resolution, palette, UI, audio | OPEN |
